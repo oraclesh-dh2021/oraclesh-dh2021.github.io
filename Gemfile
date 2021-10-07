@@ -13,6 +13,7 @@ gem "minima", "~> 2.5"
 gem "minima-reboot"
 gem "jekyll-theme-persephone"
 gem 'jekyll-theme-simplex', '~> 0.9.8.15'
+gem 'jekyll-remote-theme', '~> 0.4.3'
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"

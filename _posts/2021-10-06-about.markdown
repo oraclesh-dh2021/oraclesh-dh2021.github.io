@@ -11,4 +11,8 @@ Shang divinity:
 2) Do natural spirits receive  rituals and sacrificial offerings similar to those received by  ancestors?  
 
 ## The technical approach
-Theme: jekyll-theme-simplex
+features included:
+Theme: jekyll-theme-simplex （remote_theme)  
+permalink  
+categories  
+variables
